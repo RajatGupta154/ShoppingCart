@@ -36,7 +36,7 @@
 			<h3>What Am I?</h3>
 			<div id="para"><p>ShopIeasy's vision is to create India's most reliable and
 				frictionless commerce ecosystem that creates life-changing
-				experiences for buyers and sellers.</p>
+				experiences for buyers and sellers. Thanks Rajat Guptas</p>
 			</div>
 			<div id="para"><p>We have always taken pride in our culture. There are some core
 				values that have been inherent and are an integral part of our
